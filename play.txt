@@ -1,0 +1,9 @@
+X Wins: 23%
+O Wins: 63%
+Draws: 12%
+X Wins: 85%
+O Wins: 2%
+Draws: 12%
+X Wins: 5%
+O Wins: 88%
+Draws: 5%
